@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://ng.linkedin.com/in/okoi-obeten-aa657012a) [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:iamobeten@gmail.com)
 
-Hi there! 👋 I'm Okoi Michael Obeten, a Computer Science lecturer passionate about research and machine learning.
+Hi there! 👋 I'm Okoi Michael Obeten, a Computer Science lecturer passionate about research, machine learning, deep learning and data science.
 
 ## 💼 Work
 
